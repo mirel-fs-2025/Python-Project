@@ -11,7 +11,7 @@ Key Functions:
 
 •	inputName(name): Greets the user and converts the name to Hebrew if the keyboard is in English mode.
 
-•	changeLanguage(string): Converts text to Hebrew if it was typed incorrectly in English.
+•	changeLanguage(string): Converts text to Hebrew if it was typed incorrectly in English. 
 
 •	savedText(string): Saves the translated text to a file.
 
