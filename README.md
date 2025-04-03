@@ -7,7 +7,7 @@ How to Use:
 3.	Enter text typed in English, and the system will convert it to Hebrew.
 4.	Save the translated text to a file in the location of your choice.
 
-Key Functions
+Key Functions:
 •	inputName(name): Greets the user and converts the name to Hebrew if the keyboard is in English mode.
 •	changeLanguage(string): Converts text to Hebrew if it was typed incorrectly in English.
 •	savedText(string): Saves the translated text to a file.
